@@ -39,7 +39,7 @@ public class Solution {
 
     private static String generateoutputString(String author, String quote){
 
-       return author+ " says, "+'"' +quote+ "."+'"'; 
+       return author+ " says, "+'"' +quote+ "."+'"';
 
     }
 
